@@ -20,4 +20,4 @@ function firstNonRepeatedChar(str) {
 }
  
 const str = prompt("Enter a string");
-alert(firstNonRepeatedChar(input)); 
+alert(firstNonRepeatedChar(str)); 
